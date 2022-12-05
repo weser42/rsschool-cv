@@ -123,11 +123,6 @@ a:hover {
   color: blue;
 }
 
-.rss {
-  width: 121px;
-  height: 45px;
-}
-
 .footer {
   display: flex;
   padding: 20px;
